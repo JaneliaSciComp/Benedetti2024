@@ -2,11 +2,7 @@
 
 ## Supporting Software for Benedetti et al. 2024
 
-This repository contains Julia <a href="https://plutojl.org/">Pluto.jl</a> notebooks in suport of the following paper.
-
-<pre>
-Benedetti et al. "Periodic ER-plasma membrane junctions support long-range Ca2+ signal integration in dendrites." 2024.
-</pre>
+This repository contains Julia <a href="https://plutojl.org/">Pluto.jl</a> notebooks in support of Lorena Benedetti et al. 2024
 
 ## Contents
 
