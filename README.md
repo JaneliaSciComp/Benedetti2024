@@ -1,4 +1,4 @@
-# Periodic ER-plasma membrane junctions support long-range Ca2+ signal integration in dendrites.
+# Benedetti et al. 2024
 
 ## Supporting Software for Benedetti et al. 2024
 
