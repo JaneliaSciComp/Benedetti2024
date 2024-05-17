@@ -11,7 +11,7 @@ The repository contains four Pluto.jl notebooks:
 1. imagej_peaks_and_intervals_with_area.jl: Analyze ImageJ line traces for peaks
 2. fft_analysis.jl: Perform Fourier-based filtering to analyze interval
 3. raincloud.jl: Generate raincloud plots
-4. 
+4. periodicity.jl: Analysis periodicity via Fourier analysis
 
 ## Maintainer
 
