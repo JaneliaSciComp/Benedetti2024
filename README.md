@@ -2,7 +2,7 @@
 
 ## Supporting Software for Benedetti et al. 2024
 
-This repository contains Julia <a href="https://plutojl.org/">Pluto.jl</a> notebooks in support of Lorena Benedetti et al. 2024
+This repository contains Julia <a href="https://plutojl.org/">Pluto.jl</a> notebooks in support of [Lorena Benedetti](https://www.janelia.org/people/lorena-benedetti) et al. 2024
 
 ## Contents
 
